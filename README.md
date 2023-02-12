@@ -1,8 +1,5 @@
-# Halojatapäivää!
---
-Loin tämän sivun tehdäkseni Pilvipalvelut-kurssille ekstratehtävän. Tältä sivulta löydät ystävieni legendaarisia ja mieleen jääneitä lausahduksia ja mietelauseita. Voit hakea sivulta painamalla ctrl+F.
---
->Minä en oo juonu mittää, ja Miko on ihan vitun päissään.
-*Jesse K*
->
+## Hyvää päivää
 
+Trvetuloa Github Pages-sivulleni. Tein tämän Pilvipalvelut-kurssia varten. Olen koonnut tälle sivulle asioita minusta.
+
+>Hajin tänne (aseta tähän jokin koulutus, esim. armeija tai ammattikorkeakoulu) läpällä ja pääsin ja nyt mää oon täällä.

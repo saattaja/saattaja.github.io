@@ -1,6 +1,6 @@
 ## Good day to you
 
-Welcome to my Git Hub Pages- webpage. I made this page for Cloud services-course in Oulu University of Applied sciences. I have collected some photos and information of my dog.
+Welcome to my Git Hub Pages- webpage. I made this page for Cloud services-course in Oulu University of Applied sciences. I have collected some photos and information of my dog, because I couldn't figure out anything else. Hope you like it.
 
 # Muska the Dog
 

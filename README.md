@@ -32,6 +32,10 @@ Black with light marks.
 
 Muska lived in Hiukkavaara, Oulu in 2009, when her previous owner needed a new home for her. She was then 9 months old. We got her for free, and got some accessories with her. I was 12 at the time. She as been like a wild child always, barking, running around and enjoying life. She still is, only difference is that she sleeps a lot more. In these 14 years, we have been on so many adventures in the nature. I grew up with her, and now that I am an adult, I will take care of her till the end of her days. Nowadays she's in good condition, going wild every time when it's time to go outside. Still, I know, that we do not have so much time left anymore. I'm trying to cherish every day that I get to spend with her. After all, she's my first own dog.
 
+![onthecouch](IMG20221031213549.jpg)
+>She looks like a raccoon. -My friend
+
+>She looks like a homeless dog from the streets. -My friend's boyfriend
 
 
 ### More photos here

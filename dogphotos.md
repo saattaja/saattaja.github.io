@@ -1,4 +1,7 @@
 ## Muska Gallery
+
+[Back to main page](README.md)
+
 <img src="IMG_7719.JPG"
      alt="muska 1"
      style="width: 600px" />
@@ -37,3 +40,5 @@ Sleeping.
      style="width: 600px" />
      
 Muska and her elderly "friend" (they almost can't stand each other sometimes) Pottu.
+
+[Back to main page](README.md)
